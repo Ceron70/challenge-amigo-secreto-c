@@ -3,7 +3,7 @@
 
 let amigos = [];
 
-// funcion agregar amigos
+// funcion que permite agregar amigos
 function agregarAmigos() {
   const nombreAmigo = document.getElementById("amigo").value;
   console.log("nombres=" + nombreAmigo);
@@ -26,7 +26,7 @@ document.getElementById("amigo").focus();
   return;
 }
 
-//funcion nombres en la interfaz 	
+//funcion que actualiza la lista de amigos 	
 function actualizaListaAmigos() {	
     let listaUl = "<ul>"; 	
 	
@@ -39,7 +39,7 @@ function actualizaListaAmigos() {
     agregarElementAmigos("#listaAmigos", listaUl);	
 }	
 
-//funcion sortear amigo 
+//funcion que permite sortearo seleccionar un amigo 
 function sortearAmigo() {
     limpiarEntrada();
     document.getElementById("amigo").focus();
@@ -59,7 +59,7 @@ function sortearAmigo() {
     //agregarElemento ("#resultado", `¡tu amigo secreto es ${nombreSeleccionado}!`);
     agregarElemento2("#resultado",nombreSeleccionado);
     
-    //console.log ("nombre seleccionado =" +nombreSeleccionado );
+    console.log ("nombre de amigo seleccionado =" +nombreSeleccionado );
     
    // amigos = [];
     actualizaListaAmigos ();

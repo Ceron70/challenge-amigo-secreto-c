@@ -1,7 +1,7 @@
-- ¡Bienvenido a todos!
-- Mi challenge. "El juego del amigo secreto".
+<h1>¡Bienvenido a todos!</h1>
+<h2> Mi challenge. "El juego del amigo secreto".</h2>
 
-- Finalidad de este Challenge:
+## :hammer: Finalidad de este Challenge:
 Es crear una aplicación que permita a los usuarios, ingresar nombres de sus amigos y  luego realizar un sorteo aleatorio, para determinar quién es el amigo secreto. Esto permitirá aplicar de manera práctica, conceptos fundamentales de lógica de programación, utilizando condicionales, arreglos, entre otros.
 
 Para lograr el objetivo, la aplicación debe permitir que se agreguen nombres a través de un campo de texto y un botón llamado añadir.

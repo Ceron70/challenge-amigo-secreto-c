@@ -18,7 +18,7 @@
 - html
 
 ## Autor
-Carlos Chávez F.
+<sub>Carlos Chávez</sub>](https://github.com/Ceron70/) |  
 
 
 

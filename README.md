@@ -11,7 +11,7 @@ Hay que tomar en cuenta la validación de datos de entrada. Por ejemplo si se in
 Como ayuda para gestionar este proyecto se ha creado un tablero con la herramienta de Trello, que permitirá seguir un paso a paso detallado, facilitando y planificando el desarrollo de cada funcionalidad.
 
 Tecnologías Empleadas.
-- Java script
+- javascript
 - git y github
 - html
 

@@ -11,6 +11,8 @@
 
 - Como ayuda para gestionar este proyecto se ha creado un tablero con la herramienta de Trello, que permitirá seguir un paso a paso detallado, facilitando y planificando el desarrollo de cada funcionalidad.
 
+* [Link del juego del amigo secreto]([https://github.com/Ceron70](https://ceron70.github.io/challenge-amigo-secreto-c)
+  
 ## :ghost: Tecnologías empleadas:
 - javascript
 - git y github

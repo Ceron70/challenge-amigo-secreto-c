@@ -1,5 +1,5 @@
-:alien: <h1>¡Bienvenido a todos!</h1>
-<h2>Mi challenge. "El juego del amigo secreto".</h2>
+# :alien: ¡Bienvenido a todos!
+## Mi challenge. "El juego del amigo secreto".</h2>
 
 ## :electron: Finalidad de este Challenge:
 - Es crear una aplicación que permita a los usuarios, ingresar nombres de sus amigos y  luego realizar un sorteo aleatorio, para determinar quién es el amigo secreto. Esto permitirá aplicar de manera práctica, conceptos 

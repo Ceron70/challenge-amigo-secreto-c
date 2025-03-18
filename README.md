@@ -1,8 +1,5 @@
 <h1>¡Bienvenido a todos!</h1>
 <h2> Mi challenge. "El juego del amigo secreto".</h2>
-![image](https://github.com/user-attachments/assets/779a5233-3ad8-4fd1-b485-841084ec8b3e)
-
-
 ## :hammer: Finalidad de este Challenge:
 - Es crear una aplicación que permita a los usuarios, ingresar nombres de sus amigos y  luego realizar un sorteo aleatorio, para determinar quién es el amigo secreto. Esto permitirá aplicar de manera práctica, conceptos 
   fundamentales de lógica de programación, utilizando condicionales, arreglos, entre otros.
@@ -23,7 +20,7 @@
   <h3>Carlos Chávez</h3>
 
 
-
+* [Technologie name](https://example.com): Version 12.3 
   
   
 

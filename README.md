@@ -19,9 +19,8 @@
 - git y github
 - html
 
-## Autor
-:sunglasses: <h3>Carlos Chávez</h3>
-
+## :sunglasses: Autor
+ <h3>Carlos Chávez</h3>
 
 * [Mi Github](https://github.com/Ceron70) 
   
